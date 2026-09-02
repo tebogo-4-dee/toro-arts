@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <radialGradient id="glow" cx="35%" cy="25%" r="75%">
+      <stop offset="0%" stop-color="#DE8A3B" stop-opacity="0.35"/>
+      <stop offset="70%" stop-color="#180F0A" stop-opacity="0.95"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#glow)"/>
+  <rect x="14" y="14" width="772" height="572" fill="none" stroke="#C9B7A6" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="10 8" rx="18"/>
+  <g fill="#F0AE64" font-family="Poppins, sans-serif" font-size="14" letter-spacing="2" text-anchor="middle">
+    <text x="400" y="255">PLACEHOLDER IMAGE</text>
+  </g>
+  <g fill="#F5ECDE" font-family="Poppins, sans-serif" font-size="24" text-anchor="middle" font-weight="500">
+    <tspan x="400" y="307.0">Behind The Scenes</tspan>
+  </g>
+</svg>
